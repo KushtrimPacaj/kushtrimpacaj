@@ -33,7 +33,7 @@ Android/AOSP Tech Lead @solaborate
 Cool apps/libraries:
 
 - [AP.Project.WebRTC.Mobile](https://github.com/KushtrimPacaj/AP.Project.WebRTC.Mobile) is a demo app for video/audio calls using WebRTC
-- [GalligreyDI](https://github.com/KushtrimPacaj/gallifreydi) is a very small and simple dependency injection library.
+- [GallifreyDI](https://github.com/KushtrimPacaj/gallifreydi) is a very small and simple dependency injection library.
 - [FaceComparator](https://github.com/KushtrimPacaj/FaceComparator) showcases MVP / Dagger2 / Project Oxford  
  
 .... 
