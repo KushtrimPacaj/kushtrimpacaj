@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # kushtrimpacaj
 
-Android Tech Lead @solaborate 
+Android/AOSP Tech Lead @solaborate 
 
 🤓 Research papers/thesis @ [uni-research-papers](https://github.com/KushtrimPacaj/uni-research-papers) repo.
 
