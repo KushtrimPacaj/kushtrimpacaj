@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **KushtrimPacaj/kushtrimpacaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# kushtrimpacaj
+
+Android Tech Lead @solaborate 
+
+🤓 Research papers/thesis @ [uni-research-papers](https://github.com/KushtrimPacaj/uni-research-papers) repo.
+
+😱 Conference talks @ [DevConferences](https://github.com/KushtrimPacaj/DevConferences)
+
+📫 To contact me: [LinkedIn](https://www.linkedin.com/in/kushtrimpacaj/)
+
+
+
+------
+------
+
+Cool apps/libraries:
+
+- [AP.Project.WebRTC.Mobile](https://github.com/KushtrimPacaj/AP.Project.WebRTC.Mobile) is a demo app for video/audio calls using WebRTC
+- [GalligreyDI](https://github.com/KushtrimPacaj/gallifreydi) is a very small and simple dependency injection library.
+- [FaceComparator](https://github.com/KushtrimPacaj/FaceComparator) showcases MVP / Dagger2 / Project Oxford  
+ 
+.... 
+Check repositories tab for more 😏
